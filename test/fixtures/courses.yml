@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  name: MyString
+  city: one
+  start_course: 2020-01-31 18:14:18
+
+two:
+  title: MyString
+  name: MyString
+  city: two
+  start_course: 2020-01-31 18:14:18
